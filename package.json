@@ -1,5 +1,5 @@
 {
-  "name": "@ptomasroos/react-native-multi-slider",
+  "name": "react-native-multiple-slider-gradient",
   "version": "2.2.2",
   "description": "Android and iOS supported pure JS slider component with multiple markers for React Native",
   "main": "MultiSlider.js",
@@ -50,5 +50,7 @@
     "url": "https://github.com/ptomasroos/react-native-multi-slider/issues"
   },
   "homepage": "https://github.com/ptomasroos/react-native-multi-slider#readme",
-  "dependencies": {}
+  "dependencies": {
+    "react-native-linear-gradient": "^2.5.6"
+  }
 }
